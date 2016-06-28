@@ -1,0 +1,5 @@
+[DEFAULT]
+consumerKey=OLiLb55I4i0zkUfqgAWp7vnPB
+consumerSecret=89okbGA5HQzTQ1SnpichcM3CAnpDtKA7Af7PFg8t6k3oefBdPr
+accessToken=2206438826-akdMFCRliRmOklSLB1lHTCfGohmZa8roUpkbH9H
+accessTokenSecret=VrOnUtN1mNCqFDZ7uifxC1Tn0yBENjvMJwHceiaGSgRHw

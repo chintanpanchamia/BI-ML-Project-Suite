@@ -1,0 +1,15 @@
+Naive Bayes
+-----------
+predicted:	pos	neg
+actual:
+pos		10868	1632
+neg		2278	10222
+accuracy: 0.843600
+
+Logistic Regression
+-------------------
+predicted:	pos	neg
+actual:
+pos		10758	1742
+neg		2062	10438
+accuracy: 0.847840

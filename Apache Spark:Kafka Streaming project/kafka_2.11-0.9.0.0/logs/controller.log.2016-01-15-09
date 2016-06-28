@@ -1,0 +1,4 @@
+[2016-01-15 09:30:59,206] TRACE [Controller 0]: checking need to trigger partition rebalance (kafka.controller.KafkaController)
+[2016-01-15 09:30:59,223] DEBUG [Controller 0]: preferred replicas by broker Map(0 -> Map([twitterstream,0] -> List(0))) (kafka.controller.KafkaController)
+[2016-01-15 09:30:59,224] DEBUG [Controller 0]: topics not in preferred replica Map() (kafka.controller.KafkaController)
+[2016-01-15 09:30:59,225] TRACE [Controller 0]: leader imbalance ratio for broker 0 is 0.000000 (kafka.controller.KafkaController)
